@@ -158,8 +158,8 @@
   </tr>
 
   <tr>
-    <td><b>privideo-media</b></td>
-    <td>AWS MediaConvert, Airflow 파이프라인</td>
+    <td><b>privideo-airflow</b></td>
+    <td>Airflow 파이프라인</td>
     <td><a href="https://github.com/AllStackProject/Airflow">GitHub Link</a></td>
   </tr>
 </table>
